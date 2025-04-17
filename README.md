@@ -27,7 +27,7 @@ The **Google Reviews Widget** is a PHP-based solution that fetches and displays 
 
 1. Clone this repository or download the files.
    ```bash
-   git clone https://github.com/yourusername/google-review-widget.git
+   git clone (https://github.com/IAmAbdulHafiz/Google-Review-Widget.git)
    ```
 2. Place the files in your web server's root directory (e.g., `htdocs` for XAMPP).
 
@@ -98,4 +98,4 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 
 ## Support
 
-For issues or questions, please open an issue on the [GitHub repository](https://github.com/yourusername/google-review-widget).
+For issues or questions, please open an issue on the [GitHub repository](https://github.com/IAmAbdulHafiz/Google-Review-Widget).
