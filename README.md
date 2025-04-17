@@ -71,8 +71,6 @@ google_review_winget/
 │   ├── css/
 │   │   └── styles.css       # Widget styles
 │   └── images/              # Images (e.g., Google logo, verified badge)
-├── backup/
-│   └── reviews-widget.php   # Backup of the main widget script
 ├── config.php               # Loads environment variables
 ├── embed-widget.html        # Example iframe embed code
 ├── reviews-widget.php       # Main widget script
